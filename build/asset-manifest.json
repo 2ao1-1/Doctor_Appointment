@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Doctor-Appointment/static/css/main.9c3dca3b.css",
-    "main.js": "/Doctor-Appointment/static/js/main.49a089ec.js",
-    "index.html": "/Doctor-Appointment/index.html",
-    "main.9c3dca3b.css.map": "/Doctor-Appointment/static/css/main.9c3dca3b.css.map",
-    "main.49a089ec.js.map": "/Doctor-Appointment/static/js/main.49a089ec.js.map"
+    "main.css": "/Doctor_Appointment/static/css/main.9c3dca3b.css",
+    "main.js": "/Doctor_Appointment/static/js/main.49a089ec.js",
+    "index.html": "/Doctor_Appointment/index.html",
+    "main.9c3dca3b.css.map": "/Doctor_Appointment/static/css/main.9c3dca3b.css.map",
+    "main.49a089ec.js.map": "/Doctor_Appointment/static/js/main.49a089ec.js.map"
   },
   "entrypoints": [
     "static/css/main.9c3dca3b.css",
